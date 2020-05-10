@@ -9,7 +9,6 @@
 输入：head = [1,2], pos = 0
 输出：true
 解释：链表中有一个环，其尾部连接到第一个节点。
-
  * Definition for singly-linked list.
  * public class ListNode {
  *     public int val;

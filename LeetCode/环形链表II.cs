@@ -5,7 +5,6 @@
 输入：head = [3,2,0,-4], pos = 1
 输出：tail connects to node index 1
 解释：链表中有一个环，其尾部连接到第二个节点。
-
  * Definition for singly-linked list.
  * public class ListNode {
  *     public int val;
