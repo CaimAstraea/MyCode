@@ -9,7 +9,6 @@
 输出: "bb"
  */
 
-
 public class Solution
 {
     public string LongestPalindrome(string s)
